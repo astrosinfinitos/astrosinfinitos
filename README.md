@@ -1,33 +1,34 @@
-¡Hola mundo! 👋👋👋 Me llamo Alberto y soy desarrollador.
-
-<h2> Hola, soy Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="![descarga](https://user-images.githubusercontent.com/118359197/205138406-93b262c1-af19-4ecb-a381-1b91c15baad7.png)
-" width="230">
-<p><em>Estudiante de informática <a href="http://www.unb.br">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<h2> ¡Hola, me llamo Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://www.pngkit.com/png/full/41-410975_nerd-glasses-png-nerd-png.png" width="230">
+<p><em>Porgramador frontend formado en la <a href="http://www.uoc.edu">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: Alberto Zarzo](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/astrosinfinitos)
-[![Linkedin: Alberto Zarzo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/albertozarzo/)
-[![GitHub Alberto](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/astrosinfinitos)
+[![Twitter: Alberto Zarzo](https://img.shields.io/twitter/follow/astrosinfinitos?style=social)](https://twitter.com/astrosinfinitos)
+[![Linkedin: Rafael Alberto Zarzo Torres](https://img.shields.io/badge/-AlbertoZarzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertozarzo/)](https://www.linkedin.com/in/albertozarzo/)
+[![GitHub astrosinfintios](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poquito más sobre mí  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```js
+```javascript
 const alberto = {
-  code: [Python, Django, HTML, CSS, JavaScript, React],
-  herramientas: [React, Redux, Node, Axios, Docker],
-  arquitectura: ["modelo vista controlador", "modelo vista template", "bases de datos"],
-  techCommunities: {
-                        Organizador: "GitHub",
-                        estudios: "FP Grado Superior ASIR",
-                        mentor: "Universidad Abierta de Cataluña"
+  code: [Javascript, Typescript, HTML, CSS, SQL, Python, BashScript],
+  tools: [React, Redux, Node, Axios, MySQL, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  Comunidades IT: {
+                        Plataformas online: "Platzi, Udemy",
+                        User: "StackOverFlow en español, AskUbuntu",
+                        mentor: "UOC"
                       },
- challenge: "¡Intentar aprender conceptos nuevos cada día!"
+ desafio: "Aprender nuevos conceptos cada día"
 }
 ```
 
-<img src="![image](https://user-images.githubusercontent.com/118359197/205132803-a4034ae3-1871-4d0a-88d9-f8b2a1401bea.png)
-" width="60"> <em><b>Me encanta conectar con las personas</b> así que si quieres hablar conmigo <b>estaré encantado de conocerte!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con las personas</b> asi que cuando quieras <b>estaré ahí para apoyarte en todo cuanto te propongas!</b> :)</em>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡Y estas son mis estadísticas!</b> :)</em>
+
+![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=astrosinfinitos&show_icons=true&theme=radical)
+
 
 ---
