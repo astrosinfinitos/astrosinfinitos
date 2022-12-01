@@ -8,7 +8,7 @@
 [![GitHub astrosinfintios](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más de mí  
 
 ```javascript
 const alberto = {
