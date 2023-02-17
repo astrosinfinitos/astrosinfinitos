@@ -1,6 +1,7 @@
 <h2> ¡Hola, me llamo Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.pngkit.com/png/full/41-410975_nerd-glasses-png-nerd-png.png" width="230">
 <p><em>Programador formado en la <a href="http://www.uoc.edu">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+p><em>Y también en la <a href="https://www.eoi.es/">Escuela de Oranización Industrial</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Alberto Zarzo](https://img.shields.io/twitter/follow/astrosinfinitos?style=social)](https://twitter.com/astrosinfinitos)
@@ -18,7 +19,7 @@ const alberto = {
   Comunidades IT: {
                         Plataformas online: "Platzi, Udemy",
                         User: "StackOverFlow en español, AskUbuntu",
-                        mentor: "UOC"
+                        mentor: "UOC", "EOI"
                       },
  desafio: "Aprender nuevos conceptos cada día"
 }
