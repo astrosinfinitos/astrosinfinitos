@@ -7,7 +7,7 @@
 [![Linkedin: Rafael Alberto Zarzo Torres](https://img.shields.io/badge/-AlbertoZarzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertozarzo/)](https://www.linkedin.com/in/albertozarzo/)
 [![GitHub astrosinfintios](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
-
+<h2> Estos son los lenguajes que me interesan más <img src="https://giphy.com/gifs/loop-thinking-triple-CaiVJuZGvR8HK" width="50"></h2>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más de mí  
