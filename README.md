@@ -12,8 +12,8 @@
 
 ```javascript
 const alberto = {
-  code: [Javascript, Typescript, HTML, CSS, SQL, Python, BashScript],
-  tools: [React, Redux, Node, Axios, MySQL, Jest, Docker],
+  code: [Javascript, HTML, CSS, SQL, Python, BashScript],
+  tools: [React,  MySQL],
   architecture: ["microservices", "event-driven", "design system pattern"],
   Comunidades IT: {
                         Plataformas online: "Platzi, Udemy",
