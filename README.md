@@ -12,8 +12,8 @@
 
 ```javascript
 const alberto = {
-  code: [Javascript, HTML, CSS, SQL, Python, BashScript],
-  tools: [React,  MySQL],
+  languajes: [Javascript, HTML, CSS, SQL, Python, BashScript, MySQL],
+  frameworks: [React, Vue],
   aficiones: ["lectura", "ejercicio", "videojuegos"],
   Comunidades IT: {
                         Plataformas online: "Platzi, Udemy",
