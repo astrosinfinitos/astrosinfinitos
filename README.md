@@ -16,8 +16,8 @@ const alberto = {
   frameworks: [React, Django],
   aficiones: ["lectura", "baloncesto", "videojuegos"],
   Comunidades IT: {
-                        Plataformas online: "Platzi, Udemy",
-                        User: "StackOverFlow en español, AskUbuntu",
+                        Plataformas online: "Platzi, Udemy, Codewars",
+                        User: "StackOverFlow, AskUbuntu",
                         mentor: "UOC", "EOI"
                       },
  desafio: "Aprender nuevos conceptos cada día"
