@@ -12,9 +12,9 @@
 
 ```javascript
 const alberto = {
-  languajes: [Javascript, HTML, CSS, SQL, Python, BashScript, MySQL],
-  frameworks: [React, Vue],
-  aficiones: ["lectura", "ejercicio", "videojuegos"],
+  languajes: [JS, HTML, CSS, SQL, Python, BashScript],
+  frameworks: [React, Django],
+  aficiones: ["lectura", "baloncesto", "videojuegos"],
   Comunidades IT: {
                         Plataformas online: "Platzi, Udemy",
                         User: "StackOverFlow en español, AskUbuntu",
