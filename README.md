@@ -12,7 +12,7 @@
 
 ```javascript
 const alberto = {
-  languajes: [JS, HTML, CSS, SQL, Python, BashScript],
+  languajes: [JS, HTML, CSS, SQL, Python, BashScript, Java],
   frameworks: [React, Django],
   aficiones: ["lectura", "baloncesto", "videojuegos"],
   Comunidades IT: {
