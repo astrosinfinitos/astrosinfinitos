@@ -12,11 +12,11 @@
 
 ```javascript
 const alberto = {
-  languajes: [JS, HTML, CSS, SQL, Python, BashScript, Java],
-  frameworks: [React, Django],
+  languajes: [ShellScript, Python],
+  intereses: [Ciberseguridad, Linux, CCNA Cisco],
   aficiones: ["lectura", "baloncesto", "videojuegos"],
   Comunidades IT: {
-                        Plataformas online: "Platzi, Udemy, Codewars",
+                        Plataformas online: "HackTheBox, TryHackMe",
                         User: "StackOverFlow, AskUbuntu",
                         mentor: "UOC", "EOI"
                       },
