@@ -14,7 +14,7 @@
 const alberto = {
   languajes: [ShellScript, Python],
   intereses: [Ciberseguridad, Linux, CCNA Cisco],
-  aficiones: ["lectura", "baloncesto", "videojuegos"],
+  aficiones: ["lectura", "videojuegos"],
   Comunidades IT: {
                         Plataformas online: "HackTheBox, TryHackMe",
                         User: "StackOverFlow, AskUbuntu",
