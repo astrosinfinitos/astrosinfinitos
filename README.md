@@ -46,9 +46,4 @@ const alberto = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con las personas</b> asi que cuando quieras <b>estaré ahí para apoyarte en todo cuanto te propongas!</b> :)</em>
 
-<h3 align="center">¡Hablemos por Linkedin si quieres!</h3>
-<p align="center">
-<a href="https://linkedin.com/in/albertozarzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertozarzo" height="30" width="40" /></a>
-
-
 ---
