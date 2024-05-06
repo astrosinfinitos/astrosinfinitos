@@ -1,5 +1,5 @@
 <h2> ¡Hola, me llamo Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="![image](https://github.com/astrosinfinitos/astrosinfinitos/assets/118359197/3f585f75-6f67-4fae-8354-3f2067142dba)" width="120" height="120" alt="imagen_personal"/>
+<img align='right' src="https://image.cdn2.seaart.ai/2023-06-27/39020781330501/66f32e178d7babfdb0a9764d930be0b1e9a31316_high.webp" width="120" height="120" alt="imagen_personal"/>
 <p><em>Desarrollador frontend formado en la <a href="http://www.uoc.edu">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 <em>Y también en la <a href="https://www.eoi.es/">Escuela de Oranización Industrial</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
