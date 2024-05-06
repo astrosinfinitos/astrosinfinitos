@@ -1,11 +1,10 @@
 <h2> ¡Hola, me llamo Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.pngkit.com/png/full/41-410975_nerd-glasses-png-nerd-png.png" width="230">
 <p><em>Desarrollador frontend formado en la <a href="http://www.uoc.edu">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 <em>Y también en la <a href="https://www.eoi.es/">Escuela de Oranización Industrial</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: Rafael Alberto Zarzo Torres](https://img.shields.io/badge/-AlbertoZarzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertozarzo/)](https://www.linkedin.com/in/albertozarzo/)
-[![GitHub astrosinfintios](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
+[![GitHub astrosinfinitos](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
 
 ¡Un poco más de mí!  
