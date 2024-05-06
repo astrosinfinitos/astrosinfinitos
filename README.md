@@ -1,5 +1,5 @@
 <h2> ¡Hola, me llamo Alberto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://img.freepik.com/free-vector/boy-safari-costume-cartoon-character-sticker_1308-78305.jpg" alt="git" width="60" height="60"/>
+<img align='right' src="https://img.freepik.com/free-vector/boy-safari-costume-cartoon-character-sticker_1308-78305.jpg" alt="imagen_personal" style="border-radius: 50%;" />
 <p><em>Desarrollador frontend formado en la <a href="http://www.uoc.edu">Universidad Abierta de Cataluña</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 <em>Y también en la <a href="https://www.eoi.es/">Escuela de Oranización Industrial</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
