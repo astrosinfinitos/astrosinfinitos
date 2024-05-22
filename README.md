@@ -11,7 +11,7 @@
 ¡Un poco más de mí!  
 
 ```javascript
-const alberto = {
+const rorschach= {
   languajes: [ShellScript, Python],
   intereses: [Ciberseguridad, Linux, CCNA Cisco],
   aficiones: ["lectura", "videojuegos"],
