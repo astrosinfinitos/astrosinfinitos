@@ -9,13 +9,13 @@
 
 ```javascript
 const rorschach = {
-  languajes: [ShellScript, Python],
+  lenguajes: [ShellScript, Python],
   intereses: [Ciberseguridad, Linux, CCNA Cisco],
   aficiones: ["lectura", "videojuegos"],
-  Comunidades IT: {
+  ComunidadesOnline: {
                         Plataformas online: "HackTheBox, TryHackMe",
                         User: "StackOverFlow, AskUbuntu",
-                        mentor: "UOC", "EOI"
+                        mentor: "UOC", "EOI", "GoodJob"
                       },
  desafio: "Aprender nuevos conceptos cada día"
 }
