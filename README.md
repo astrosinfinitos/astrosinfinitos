@@ -41,6 +41,8 @@ const rorschach = {
     </a>
 </p> 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con las personas</b> asi que cuando quieras <b>estaré ahí para apoyarte en todo cuanto te propongas!</b> :)</em>
+<b>¡Y estas son mis estadísticas de GitHub!</b>
+
+[![Mi estadísticas](https://github-readme-stats.vercel.app/api?username=astrosinfinitos)](https://github.com/astrosinfinitos/github-readme-stats)
 
 ---
