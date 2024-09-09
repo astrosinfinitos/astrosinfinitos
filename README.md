@@ -43,7 +43,7 @@ const rorschach = {
 
 <h2> ¡Y estas son mis estadísticas en GitHub! </h2>
 
-<div align="left">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=astrosinfinitos&bg_color=000000" alt="Mi estadísticas" style="margin: 0 auto;"/>
 </div>
 
