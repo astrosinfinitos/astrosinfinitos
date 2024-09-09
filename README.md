@@ -41,9 +41,7 @@ const rorschach = {
     </a>
 </p> 
 
-<div align="center">
-[![Mi estadísticas](https://github-readme-stats.vercel.app/api?username=astrosinfinitos&bg_color=000000&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/astrosinfinitos/github-readme-stats)
-</div>
+[![Mi estadísticas](https://github-readme-stats.vercel.app/api?username=astrosinfinitos)](https://github.com/astrosinfinitos/github-readme-stats)
 
 
 
