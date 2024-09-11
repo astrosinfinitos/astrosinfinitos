@@ -1,18 +1,30 @@
 <h2> ¡Hola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<table style="border: none; border-spacing: 0;">
+<style>
+.no-border {
+  border: none !important;
+  border-spacing: 0 !important;
+}
+.no-border td {
+  border: none !important;
+}
+.align-right {
+  text-align: right !important;
+}
+</style>
+
+<table class="no-border">
 <tr>
-<td valign="top" width="70%" style="border: none;"> 
+<td valign="top" width="70%" class="no-border"> 
 
 Soy un entusiasta de la tecnología con una gran pasión por la ciberseguridad y los sistemas Linux. Me encanta aprender cosas nuevas cada día y compartir mis conocimientos con la comunidad. Actualmente estoy explorando el mundo de las redes con CCNA Cisco y siempre estoy buscando nuevos desafíos.
 
 </td>
-<td valign="top" style="border: none; text-align: right;"> 
+<td valign="top" class="no-border align-right"> 
     <img src="https://image.cdn2.seaart.ai/2023-06-27/39020781330501/66f32e178d7babfdb0a9764d930be0b1e9a31316_high.webp" width="180" height="180" alt="imagen_personal"/>
 </td>
 </tr>
 </table>
-
 
 [![GitHub astrosinfinitos](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
