@@ -11,7 +11,7 @@ Soy un entusiasta de la tecnología con una gran pasión por la ciberseguridad y
 
 [![GitHub astrosinfinitos](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
-¡Un poco más de mí!  
+<h2> ¡Un poco más de mí! </h2>
 
 ```javascript
 const rorschach = {
