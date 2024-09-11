@@ -1,8 +1,8 @@
 <h2> ¡Hola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<table style="border: 0; border-spacing: 0; width: auto;">
+<table style="border: 0; border-spacing: 0; width: 100%;">
 <tr>
-<td valign="top" width="60%" style="border: 0;"> 
+<td valign="top" style="border: 0;"> 
 
 Soy un entusiasta de la tecnología con una gran pasión por la ciberseguridad y los sistemas Linux. Me encanta aprender cosas nuevas cada día y compartir mis conocimientos con la comunidad. Actualmente estoy explorando el mundo de las redes con CCNA Cisco y siempre estoy buscando nuevos desafíos.
 
