@@ -9,13 +9,9 @@
 
 Soy un entusiasta de la tecnología con una gran pasión por la ciberseguridad y los sistemas Linux. Me encanta aprender cosas nuevas cada día y compartir mis conocimientos con la comunidad. Actualmente estoy explorando el mundo de las redes con CCNA Cisco y siempre estoy buscando nuevos desafíos.
 
-
-¡Un poco más de mí!  
-
 [![GitHub astrosinfinitos](https://img.shields.io/github/followers/astrosinfinitos?label=follow&style=social)](https://github.com/astrosinfinitos)
 
-
-¡Un poco más de mí!  
+¡Un poco más de mí!  
 
 ```javascript
 const rorschach = {
