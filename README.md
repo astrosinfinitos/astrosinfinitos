@@ -1,10 +1,11 @@
 <h2> ¡Hola! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="center">
     <img src="https://image.cdn2.seaart.ai/2023-06-27/39020781330501/66f32e178d7babfdb0a9764d930be0b1e9a31316_high.webp" width="180" height="180" alt="imagen_personal"/>
 </div>
+
+<br/>
 
 Soy un entusiasta de la tecnología con una gran pasión por la ciberseguridad y los sistemas Linux. Me encanta aprender cosas nuevas cada día y compartir mis conocimientos con la comunidad. Actualmente estoy explorando el mundo de las redes con CCNA Cisco y siempre estoy buscando nuevos desafíos.
 
